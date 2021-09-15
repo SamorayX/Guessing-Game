@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 secret_word = "Samoray"
 
 guess = ""
